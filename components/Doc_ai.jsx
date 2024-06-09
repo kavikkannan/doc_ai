@@ -56,7 +56,7 @@ export default function DocAi() {
             <img src="/images/attachment.png" alt="update icon" className='w-7' />
           </button>
           <h2 className="p-2 hover:translate-x-3 hover:transition-transform hover:ease-out delay-400 hover:text-bb text-white">
-            {hasUploaded ? "Try with another PDF" : "Upload the PDF here"}
+            {hasUploaded ? "Try with anot PDF" : "Upload the PDF here"}
           </h2>
         </div>
         <div className="flex items-center gap-2 bottom-4 left-4">
